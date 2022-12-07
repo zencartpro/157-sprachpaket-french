@@ -6,7 +6,7 @@
  * Zen Cart German Version - www.zen-cart-pro.at
  * @copyright Portions Copyright 2003 osCommerce
  * @license https://www.zen-cart-pro.at/license/3_0.txt GNU General Public License V3.0
- * @version $Id: french.php 2022-12-07 11:20:57Z webchills $
+ * @version $Id: french.php 2022-12-07 19:20:57Z webchills $
  */
 
 // FOLLOWING WERE moved to meta_tags.php
@@ -18,7 +18,7 @@
   define('FOOTER_TEXT_BODY', 'Copyright &copy; ' . date('Y') . ' <a href="' . zen_href_link(FILENAME_DEFAULT) . '">' . STORE_NAME . '</a>. Powered by <a href="https://www.zen-cart-pro.at" rel="noopener noreferrer" target="_blank">Zen Cart</a>');
 
 // look in your $PATH_LOCALE/locale directory for available locales..
- $locales = [fr_FR.UTF8', 'fr.UTF8', 'fr_FR.UTF-8', 'fr.UTF-8','fr_FR@euro', 'fr_FR', 'fr', 'fr', 'fra.fra'];
+ $locales = ['fr_FR.UTF8', 'fr.UTF8', 'fr_FR.UTF-8', 'fr.UTF-8','fr_FR@euro', 'fr_FR', 'fr', 'fr', 'fra.fra'];
   @setlocale(LC_TIME, $locales);
 
 define('DATE_FORMAT_LONG', '%A, %d. %B %Y'); // this is used for strftime()
@@ -293,8 +293,8 @@ define('ARIA_PAGINATION_','');
 
 define('TEXT_BASE_PRICE', 'de ');
 
-define('TEXT_CLICK_TO_ENLARGE', 'Agrandir l\'image');
-define('TEXT_CLOSE_WINDOW_IMAGE', 'Cliquer sur l\'image pour la fermer');
+define('TEXT_CLICK_TO_ENLARGE', 'Agrandir');
+define('TEXT_CLOSE_WINDOW_IMAGE', 'Cliquer pour fermer image');
 
 define('TEXT_SORT_PRODUCTS', 'Trier articles ');
 define('TEXT_DESCENDINGLY', 'ascendant');

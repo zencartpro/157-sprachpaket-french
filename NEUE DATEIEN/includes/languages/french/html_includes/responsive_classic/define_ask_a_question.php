@@ -1,1 +1,1 @@
-<p>Sie haben eine Frage zu einem Artikel?  Wir helfen Ihnen gerne!</p>
+<p>Vous avez une question sur un produit ?  Nous nous ferons un plaisir de vous aider !</p>

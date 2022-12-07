@@ -1,23 +1,21 @@
 <?php
 /**
- * Zen Cart German Specific
- 
+* Zen Cart German Specific
 * @copyright Copyright 2003-2022 Zen Cart Development Team
- * Zen Cart German Version - www.zen-cart-pro.at
+* Zen Cart German Version - www.zen-cart-pro.at
 * @copyright Portions Copyright 2003 osCommerce
 * @license https://www.zen-cart-pro.at/license/3_0.txt GNU General Public License V3.0
- * translation 2021 by klartexter
-* @version $Id: index.php 2020-03-01 09:00:16Z webchills $
-
+* translation 2021 by klartexter
+* @version $Id: index.php 2022-12-07 19:00:16Z webchills $
 */
 
 define('TEXT_MAIN','Définissez ici votre texte personnel. Vous pouvez éditer ce texte dans <strong>/includes/ languages/french/responsive_classic/index.php</strong>.');
 
 // Showcase vs Store
 if (STORE_STATUS == '0') {
-  define('TEXT_GREETING_GUEST', 'Bienvenue <span class = "greetUser"> Invité! </ span> Souhaitez-vous  <a href="%s"> vous inscrire</a>?');
+define('TEXT_GREETING_GUEST', 'Bienvenue <span class = "greetUser"> visiteur! </ span> Souhaitez-vous  <a href="%s"> vous inscrire</a>?');
 } else {
-	define('TEXT_GREETING_GUEST', 'Bienvenue sur notre site Internet ! Profitez de notre salle d\'exposition.');
+define('TEXT_GREETING_GUEST', 'Bienvenue sur notre site Internet ! Profitez de notre salle d\'exposition.');
 }
 
 define('TEXT_GREETING_PERSONAL', 'Bienvenue <span class="greetUser">%s</span> ! Aimeriez-vous voir ce que nous avons <a href="%s">nouveau</a>?');

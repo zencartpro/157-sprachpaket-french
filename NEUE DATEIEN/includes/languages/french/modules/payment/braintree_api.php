@@ -171,7 +171,7 @@ define('CENTINEL_ERROR_CODE_4243', '4243');
 define('CENTINEL_ERROR_CODE_4243_DESC', 'Problème de configuration de compte avec Cardinal Centinel. Veuillez contacter immédiatement votre représentant Cardinal à implement@cardinalcommerce.com et l\'informer que vous recevrez le numéro d\'erreur 4243 si vous tentez d\'utiliser 3D Secure avec votre site Zen Cart et votre compte Braintree et que vous devez avoir activé le module processeur dans votre compte. Vos transactions ne seront pas protégées par une obligation de rétrofacturation tant que ce problème n\'aura pas été résolu.');
 
 // BRAINTREE ERROR CODES
-define('BRAINTREE_ERROR_CODE_2000', 'Votre banque n'est pas prête à accepter la transaction. Aucun paiement n\'a été effectué. Veuillez vous adresser à votre banque.');
+define('BRAINTREE_ERROR_CODE_2000', 'Votre banque n\'est pas prête à accepter la transaction. Aucun paiement n\'a été effectué. Veuillez vous adresser à votre banque.');
 define('BRAINTREE_ERROR_CODE_2001', 'Solde créditeur insuffisant');
 define('BRAINTREE_ERROR_CODE_2002', 'Limite dépassée');
 define('BRAINTREE_ERROR_CODE_2003', 'Dépassement de la limite d\'activité du titulaire de la carte');
@@ -233,5 +233,5 @@ define('BRAINTREE_ERROR_CODE_2059', 'Échec de la vérification de l\'adresse');
 define('BRAINTREE_ERROR_CODE_2060', 'Échec de la vérification des adresses et du code de sécurité');
 define('BRAINTREE_ERROR_CODE_2061', 'Données de mouvement non valides');
 define('BRAINTREE_ERROR_CODE_2062', 'Montant de taxe non valable');
-define('TEXT_CCVAL_ERROR_INVALID_MONTH_EXPIRY','Date d'expiration de la carte de crédit non valide Mois: %s');
-define('TEXT_CCVAL_ERROR_INVALID_YEAR_EXPIRY','Date d'expiration de la carte de crédit non valide Année: %s');
+define('TEXT_CCVAL_ERROR_INVALID_MONTH_EXPIRY','Date d\'expiration de la carte de crédit non valide Mois: %s');
+define('TEXT_CCVAL_ERROR_INVALID_YEAR_EXPIRY','Date d\'expiration de la carte de crédit non valide Année: %s');

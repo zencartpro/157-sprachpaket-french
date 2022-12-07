@@ -6,15 +6,13 @@
  * @copyright Portions Copyright 2003 osCommerce
  * @license https://www.zen-cart-pro.at/license/3_0.txt GNU General Public License V3.0
  * translation 2021 by klartexter
- * @version $Id: button_names.php 2021-12-27 21:11:14Z webchills $
-
+ * @version $Id: button_names.php 2022-12-07 19:11:14Z webchills $
  */
 
 
 /**
  * define the button images used in the project
  */
-
 
 define('BUTTON_IMAGE_ADD_ADDRESS', 'button_add_address.gif');
 define('BUTTON_IMAGE_ADD_PRODUCTS_TO_CART','button_add_selected.gif');
@@ -78,12 +76,12 @@ define('BUTTON_CONFIRM_SEND_ALT', 'Envoyer le bon d\'achat');
 define('BUTTON_CONFIRM_ORDER_ALT', 'ACHETER');
 define('BUTTON_CONTACT_US_TEXT', 'Contacter');
 define('BUTTON_CONTINUE_ALT', 'Plus');
-define('BUTTON_CONTINUE_SHOPPING_ALT', 'Continuer à magasiner');
+define('BUTTON_CONTINUE_SHOPPING_ALT', 'continuer les achats');
 define('BUTTON_DELETE_ALT', 'Supprimer');
 define('BUTTON_DELETE_SMALL_ALT', 'Supprimer');
 define('BUTTON_DOWNLOAD_ALT', 'Téléchargement');
 define('BUTTON_EDIT_SMALL_ALT', 'Éditer');
-define('BUTTON_IN_CART_ALT', 'Ajouter au panier d\'achat ');
+define('BUTTON_IN_CART_ALT', 'Ajouter au panier');
 define('BUTTON_LOGIN_ALT', 'Se connecter');
 define('BUTTON_LOOKUP_ALT', 'Vue');
 
