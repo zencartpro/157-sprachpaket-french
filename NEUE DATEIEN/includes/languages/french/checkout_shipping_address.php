@@ -26,7 +26,7 @@ define('TABLE_HEADING_NEW_SHIPPING_ADDRESS','Nouvelle adresse de livraison');
 define('TEXT_CREATE_NEW_SHIPPING_ADDRESS','Veuillez insérer une nouvelle adresse de livraison ici.');
 define('TEXT_SELECT_OTHER_SHIPPING_DESTINATION', 'Si vous ne souhaitez pas envoyer cette commande à votre adresse standard, veuillez indiquer une autre adresse de livraison.');
 
-define('TITLE_CONTINUE_CHECKOUT_PROCEDURE','<strong>Plus</strong>');
+define('TITLE_CONTINUE_CHECKOUT_PROCEDURE','<strong>continuer</strong>');
 define('TEXT_CONTINUE_CHECKOUT_PROCEDURE','- choisissez votre mode d\'expédition.');
 
 define('SET_AS_PRIMARY','Utilisation comme adresse principale');

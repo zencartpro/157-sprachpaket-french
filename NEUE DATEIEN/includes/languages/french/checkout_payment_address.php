@@ -24,5 +24,5 @@ define('TITLE_PLEASE_SELECT','Veuillez sélectionner');
 
 define('TABLE_HEADING_NEW_PAYMENT_ADDRESS','...ou sélectionnez une adresse dans votre carnet d\'adresses');
 
-define('TITLE_CONTINUE_CHECKOUT_PROCEDURE','<strong>Plus</strong>');
+define('TITLE_CONTINUE_CHECKOUT_PROCEDURE','<strong>continuer</strong>');
 define('TEXT_CONTINUE_CHECKOUT_PROCEDURE','- aux modes de paiement.');

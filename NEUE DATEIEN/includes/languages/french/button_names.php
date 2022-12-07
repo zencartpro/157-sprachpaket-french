@@ -74,7 +74,7 @@ define('BUTTON_CHECKOUT_ALT', 'Passer à la caisse');
 define('BUTTON_CONFIRM_SEND_ALT', 'Envoyer le bon d\'achat');
 define('BUTTON_CONFIRM_ORDER_ALT', 'ACHETER');
 define('BUTTON_CONTACT_US_TEXT', 'Contacter');
-define('BUTTON_CONTINUE_ALT', 'Plus');
+define('BUTTON_CONTINUE_ALT', 'continuer');
 define('BUTTON_CONTINUE_SHOPPING_ALT', 'continuer les achats');
 define('BUTTON_DELETE_ALT', 'Supprimer');
 define('BUTTON_DELETE_SMALL_ALT', 'Supprimer');
