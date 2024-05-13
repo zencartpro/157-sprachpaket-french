@@ -1,21 +1,20 @@
 <?php
 /**
- 
- * @copyright Copyright 2003-2022 Zen Cart Development Team
+ * Zen Cart German Specific (158 code in 157)
+ * @copyright Copyright 2003-2024 Zen Cart Development Team
  * Zen Cart German Version - www.zen-cart-pro.at
  * @copyright Portions Copyright 2003 osCommerce
  * @license https://www.zen-cart-pro.at/license/3_0.txt GNU General Public License V3.0
- * @version $Id: orders_status.php 629 2020-01-18 10:39:16Z webchills $
+ * @version $Id: orders_status.php 2024-04-18 13:23:16Z webchills $
  */
 
 define('HEADING_TITLE','Bestellstatus');
 define('TABLE_HEADING_ORDERS_STATUS','Bestellstatus');
-define('TABLE_HEADING_ACTION','Aktion');
-define('TABLE_HEADING_ORDERS_STATUS_ID', 'Bestellstatus ID');
-define('TABLE_HEADING_SORT_ORDER', 'Sortierung');
 
-define('TEXT_INFO_SORT_ORDER', 'Sortierungr: ');
-define('TEXT_INFO_EDIT_INTRO','Führen Sie hier bitte die notwendigen Änderungen durch');
+define('TABLE_HEADING_ORDERS_STATUS_ID', 'Bestellstatus ID');
+
+define('TEXT_INFO_SORT_ORDER', 'Sortierreihenfolge:');
+
 define('TEXT_INFO_ORDERS_STATUS_NAME','Bestellstatus:');
 define('TEXT_INFO_INSERT_INTRO','Tragen Sie bitte den neuen Bestellstatus mit den dazu notwendigen Daten ein');
 define('TEXT_INFO_DELETE_INTRO','Wollen Sie diesen Bestellstatus wirklich löschen?');

@@ -1,10 +1,10 @@
 <?php
 /**
- * @copyright Copyright 2003-2022 Zen Cart Development Team
+ * @copyright Copyright 2003-2024 Zen Cart Development Team
  * Zen Cart German Version - www.zen-cart-pro.at
  * @copyright Portions Copyright 2003 osCommerce
  * @license https://www.zen-cart-pro.at/license/3_0.txt GNU General Public License V3.0
- * @version $Id: email_archive_manager.php 2022-04-17 16:50:16Z webchills $
+ * @version $Id: email_archive_manager.php 2024-04-08 09:50:16Z webchills $
  */
 define('SUBJECT_SIZE_LIMIT', 25);
 define('MESSAGE_SIZE_LIMIT', 550);
@@ -12,6 +12,7 @@ define('MESSAGE_LIMIT_BREAK', '...');
 define('HEADING_TITLE', 'Email Archiv Manager');
 define('HEADING_SEARCH_INSTRUCT', 'Sie können nach jeder Kombination der folgenden Kriterien suchen...');
 
+define('HEADING_TEXT_INSTEAD', 'Zeige TEXT aus Sicherheitsgründen; HTML kann gefährlich sein.'); 
 define('HEADING_MODULE_SELECT', 'Filter nach Modul');
 define('HEADING_SEARCH_TEXT', 'Suche nach Text');
 define('HEADING_SEARCH_TEXT_FILTER', 'Aktueller Suchfilter: ');
@@ -57,6 +58,7 @@ define('IMAGE_ICON_RESEND', ' Email erneut senden ');
 define('IMAGE_ICON_EMAIL', ' Email Empfänger ');
 define('IMAGE_ICON_DELETE', ' Nachricht löschen ');
 
+define('SEND_NEW_EMAIL', 'Neue Email senden');
 define('BUTTON_SEARCH', 'Archiv durchsuchen');
 define('BUTTON_TRIM_CONFIRM', 'Email löschen');
 define('BUTTON_CANCEL', 'Abbrechen');
