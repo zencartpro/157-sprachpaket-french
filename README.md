@@ -5,8 +5,8 @@ Hinweis:
 Freigegebene getestete Versionen für den Einsatz in Livesystemen ausschließlich unter Releases herunterladen:
 * https://github.com/zencartpro/157-sprachpaket-french/releases
 
-utf-8
-Frontend von klartexter übersetzt 
+* utf-8
+* Frontend von klartexter übersetzt 
 
 * Dieses Sprachpaket stellt eine komplette französsche Übersetzung (Übersetzunggrad 100%) für das Frontend der Grundversion bereit. 
 * Die Sprachdefinitionen sind vollständig für die deutsche Zen Cart Version angepasst, so dass es auch mit PHP8 keine Probleme geben sollte. 
