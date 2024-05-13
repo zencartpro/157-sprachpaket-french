@@ -106,10 +106,10 @@ define('MODULE_PAYMENT_BRAINTREE_ENTRY_REFUND_TITLE', '<strong>Remboursements</s
 define('MODULE_PAYMENT_BRAINTREE_ENTRY_REFUND_FULL', 'Si vous souhaitez rembourser intégralement cette commande, cliquez ici:');
 define('MODULE_PAYMENT_BRAINTREE_ENTRY_REFUND_BUTTON_TEXT_FULL', 'Remboursement complet');
 define('MODULE_PAYMENT_BRAINTREE_ENTRY_REFUND_BUTTON_TEXT_PARTIAL', 'Remboursement partiel');
-define('MODULE_PAYMENT_BRAINTREE_ENTRY_REFUND_TEXT_FULL_OR', '<br />... ou entrez  ');
+define('MODULE_PAYMENT_BRAINTREE_ENTRY_REFUND_TEXT_FULL_OR', '<br>... ou entrez  ');
 define('MODULE_PAYMENT_BRAINTREE_ENTRY_REFUND_PAYFLOW_TEXT', '');
 define('MODULE_PAYMENT_BRAINTREE_ENTRY_REFUND_PARTIAL_TEXT', 'entrez le montant partiel ici et cliquez sur Remboursement partiel');
-define('MODULE_PAYMENT_BRAINTREE_ENTRY_REFUND_SUFFIX', '*Un remboursement complet ne peut être effectué après qu\'un remboursement partiel ait été demandé...<br />*Les remboursements partiels multiples sont permis jusqu\'à concurrence du solde non remboursable restant.');
+define('MODULE_PAYMENT_BRAINTREE_ENTRY_REFUND_SUFFIX', '*Un remboursement complet ne peut être effectué après qu\'un remboursement partiel ait été demandé...<br>*Les remboursements partiels multiples sont permis jusqu\'à concurrence du solde non remboursable restant.');
 define('MODULE_PAYMENT_BRAINTREE_ENTRY_REFUND_TEXT_COMMENTS', '<strong>Note affichée au client:</strong>');
 define('MODULE_PAYMENT_BRAINTREE_ENTRY_REFUND_DEFAULT_MESSAGE', 'Remboursé par le propriétaire du magasin.');
 define('MODULE_PAYMENT_BRAINTREE_TEXT_REFUND_FULL_CONFIRM_CHECK','Confirmer: ');
@@ -122,7 +122,7 @@ define('MODULE_PAYMENT_BRAINTREE_ENTRY_AUTH_SUFFIX', '');
 
 
 define('MODULE_PAYMENT_BRAINTREE_ENTRY_CAPTURE_TITLE', '<strong>Autorisations d\'enregistrement</strong>');
-define('MODULE_PAYMENT_BRAINTREE_ENTRY_CAPTURE_FULL', 'Si vous souhaitez capturer tout ou partie des montants autorisés en suspens pour cet ordre, saisissez le montant de la capture et choisissez s\'il s\'agit de la capture finale pour cet ordre.  Cochez la case de confirmation avant d\'envoyer votre demande de capture.<br />');
+define('MODULE_PAYMENT_BRAINTREE_ENTRY_CAPTURE_FULL', 'Si vous souhaitez capturer tout ou partie des montants autorisés en suspens pour cet ordre, saisissez le montant de la capture et choisissez s\'il s\'agit de la capture finale pour cet ordre.  Cochez la case de confirmation avant d\'envoyer votre demande de capture.<br>');
 define('MODULE_PAYMENT_BRAINTREE_ENTRY_CAPTURE_BUTTON_TEXT_FULL', 'Exécuter la saisie de données');
 define('MODULE_PAYMENT_BRAINTREE_ENTRY_CAPTURE_AMOUNT_TEXT', 'Montant pour l\'entrée:');
 define('MODULE_PAYMENT_BRAINTREE_ENTRY_CAPTURE_FINAL_TEXT', 'S\'il s\'agit de la dernière entrée?');

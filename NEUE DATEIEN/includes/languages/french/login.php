@@ -19,7 +19,7 @@ define('HEADING_NEW_CUSTOMER_SPLIT', 'Nouveaux clients');
 
 define('TEXT_NEW_CUSTOMER_INTRODUCTION','Un compte client chez ' . STORE_NAME . ' vous pouvez, par exemple, faire vos achats confortablement, consulter vos commandes en cours, vos commandes précédentes et bien plus encore.');
 define('TEXT_NEW_CUSTOMER_INTRODUCTION_SPLIT', 'Avez-vous un compte PayPal ? Vous voulez payer rapidement avec une carte de crédit ? Cliquez sur le bouton PayPal ci-dessous pour utiliser l\'option "PayPal Express".');
-define('TEXT_NEW_CUSTOMER_POST_INTRODUCTION_DIVIDER', '<span class="larger">ou</span><br />');
+define('TEXT_NEW_CUSTOMER_POST_INTRODUCTION_DIVIDER', '<span class="larger">ou</span><br>');
 define('TEXT_NEW_CUSTOMER_POST_INTRODUCTION_SPLIT', 'Un compte client chez ' . STORE_NAME . ' vous pouvez, par exemple, faire vos achats confortablement, consulter vos commandes en cours et précédentes et profiter de tous les avantages réservés aux clients.');
 
 define('HEADING_RETURNING_CUSTOMER','Des clients réguliers : Veuillez vous connecter');

@@ -26,7 +26,7 @@ define('TITLE_PLEASE_SELECT', 'Veuillez sélectionner');
 define('TABLE_HEADING_COMMENTS', 'Commentaires ou remarques');
 
 
-define('TEXT_NO_PAYMENT_OPTIONS_AVAILABLE','<span class="alert">Désolé, mais nous n\'acceptons pas les paiements de votre région.</span><br />N\'hésitez pas à nous contacter pour trouver des alternatives. ');
+define('TEXT_NO_PAYMENT_OPTIONS_AVAILABLE','<span class="alert">Désolé, mais nous n\'acceptons pas les paiements de votre région.</span><br>N\'hésitez pas à nous contacter pour trouver des alternatives. ');
 
 define('TITLE_CONTINUE_CHECKOUT_PROCEDURE', '<strong>Aller à l\'étape 3</strong>');
 define('TEXT_CONTINUE_CHECKOUT_PROCEDURE', '- pour continuer votre commande ...');

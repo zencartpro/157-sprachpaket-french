@@ -12,13 +12,13 @@
 
 define('TEXT_CLOSE_WINDOW','Fermer fenêtre [x]');
 define('TEXT_COUPON_HELP_HEADER','Félicitations! Vous avez utilisé votre coupon avec succès.');
-define('TEXT_COUPON_HELP_NAME','<br /><br />Nom du coupon action: %s');
-define('TEXT_COUPON_HELP_FIXED','<br /><br />La valeur du coupon promotionnel %s sera créditée sur votre commande.');
-define('TEXT_COUPON_HELP_MINORDER','<br /><br />Vous avez toujours besoin d\'articles d\'une valeur de %s afin d\'échanger votre coupon promotionnel.');
-define('TEXT_COUPON_HELP_FREESHIP','<br /><br />Ce coupon promotionnel vous permet de <strong>expédition gratuite </strong>livraison');
-define('TEXT_COUPON_HELP_DESC','<br /><br />Action coupon Description: %s');
-define('TEXT_COUPON_HELP_DATE','<br /><br />Ce coupon action est valable du %s au %s.');
-define('TEXT_COUPON_HELP_RESTRICT','<br /><br />Restrictions relatives à l\'article ou à la catégorie');
+define('TEXT_COUPON_HELP_NAME','<br><br>Nom du coupon action: %s');
+define('TEXT_COUPON_HELP_FIXED','<br><br>La valeur du coupon promotionnel %s sera créditée sur votre commande.');
+define('TEXT_COUPON_HELP_MINORDER','<br><br>Vous avez toujours besoin d\'articles d\'une valeur de %s afin d\'échanger votre coupon promotionnel.');
+define('TEXT_COUPON_HELP_FREESHIP','<br><br>Ce coupon promotionnel vous permet de <strong>expédition gratuite </strong>livraison');
+define('TEXT_COUPON_HELP_DESC','<br><br>Action coupon Description: %s');
+define('TEXT_COUPON_HELP_DATE','<br><br>Ce coupon action est valable du %s au %s.');
+define('TEXT_COUPON_HELP_RESTRICT','<br><br>Restrictions relatives à l\'article ou à la catégorie');
 define('TEXT_COUPON_HELP_CATEGORIES','Catégorie');
 define('TEXT_COUPON_HELP_PRODUCTS','Articles');
 

@@ -10,6 +10,6 @@
  */
 
 define('NAVBAR_TITLE', 'Activation de compte requise');
-define('HEADING_TITLE', 'Veuillez patienter. <br /> Votre compte sera activé sous peu.');
-define('CUSTOMERS_AUTHORIZATION_TEXT_INFORMATION', 'Nous vous remercions de l\'intérêt que vous portez à notre boutique.<br /><br />Nous vous contacterons dès que possible.');
+define('HEADING_TITLE', 'Veuillez patienter. <br> Votre compte sera activé sous peu.');
+define('CUSTOMERS_AUTHORIZATION_TEXT_INFORMATION', 'Nous vous remercions de l\'intérêt que vous portez à notre boutique.<br><br>Nous vous contacterons dès que possible.');
 define('CUSTOMERS_AUTHORIZATION_STATUS_TEXT', 'Veuillez cliquer sur <em>Next</em> pour vérifier l\'état de votre autorisation.:');

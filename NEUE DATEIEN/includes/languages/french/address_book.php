@@ -15,7 +15,7 @@ define('NAVBAR_TITLE_2','Carnet d\'adresses');
 define('HEADING_TITLE','Mon carnet d\'adresses personnel');
 
 define('PRIMARY_ADDRESS_TITLE','Adresse principale:');
-define('PRIMARY_ADDRESS_DESCRIPTION','Cette adresse sera utilisée comme adresse par défaut pour la livraison et la facturation.<br /><br />Cette adresse est également utilisée pour le calcul de la TVA.');
+define('PRIMARY_ADDRESS_DESCRIPTION','Cette adresse sera utilisée comme adresse par défaut pour la livraison et la facturation.<br><br>Cette adresse est également utilisée pour le calcul de la TVA.');
 
 define('ADDRESS_BOOK_TITLE','Entrées du carnet d\'adresses');
 

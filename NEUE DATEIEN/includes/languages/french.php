@@ -320,11 +320,11 @@ define('BOX_INFORMATION_GV', TEXT_GV_NAME . ' FAQ');
 define('VOUCHER_BALANCE', TEXT_GV_NAME . ' Compte: ');
 define('BOX_HEADING_GIFT_VOUCHER', TEXT_GV_NAME . ' Compte');
 define('GV_FAQ', TEXT_GV_NAME . ' FAQ');
-define('ERROR_REDEEMED_AMOUNT', 'Félicitations!<br />Vous avez utilisé avec succès votre bon d\'achat.<br />Montant: ');
+define('ERROR_REDEEMED_AMOUNT', 'Félicitations!<br>Vous avez utilisé avec succès votre bon d\'achat.<br>Montant: ');
 define('ERROR_NO_REDEEM_CODE', 'Ils n\'ont pas de ' . TEXT_GV_REDEEM . '  est entré.');
 define('ERROR_NO_INVALID_REDEEM_GV', 'Non valable ' . TEXT_GV_NAME . ' ou ' . TEXT_GV_REDEEM);
 define('TABLE_HEADING_CREDIT', 'Crédit disponible');
-define('TEXT_SEND_OR_SPEND','Vous avez du crédit sur votre ' . TEXT_GV_NAME . 'compte. Si vous souhaitez <br />vous pouvez envoyer ce crédit à une autre personne en cliquant sur le bouton ci-dessous.');
+define('TEXT_SEND_OR_SPEND','Vous avez du crédit sur votre ' . TEXT_GV_NAME . 'compte. Si vous souhaitez <br>vous pouvez envoyer ce crédit à une autre personne en cliquant sur le bouton ci-dessous.');
 define('TEXT_BALANCE_IS', 'Votre solde est: ');
 define('TEXT_AVAILABLE_BALANCE', 'Vous ' . TEXT_GV_NAME . ' Compte');
 
@@ -425,7 +425,7 @@ define('SUCCESS_FILE_SAVED_SUCCESSFULLY', 'Le fichier a été enregistré avec s
 define('ERROR_FILE_NOT_SAVED', 'ERREUR : Fichier non sauvegardé.');
 define('ERROR_DESTINATION_NOT_WRITEABLE', 'ERREUR : La cible n\'a pas pu être écrite dessus.');
 define('ERROR_DESTINATION_DOES_NOT_EXIST', 'ERREUR : La cible n\'existe pas.');
-define('ERROR_FILE_TOO_BIG', 'ATTENTION : Le fichier est trop gros pour être téléchargé!<br />La commande peut être passée, veuillez nous contacter pour compléter le téléchargement avec succès.');
+define('ERROR_FILE_TOO_BIG', 'ATTENTION : Le fichier est trop gros pour être téléchargé!<br>La commande peut être passée, veuillez nous contacter pour compléter le téléchargement avec succès.');
 // End iii added
 
 define('TEXT_BEFORE_DOWN_FOR_MAINTENANCE', 'NOTE : Notre boutique est fermée en raison de travaux d\'entretien jusqu\'à ce que (dd/mm/yy) (hh-hh): ');
@@ -437,7 +437,7 @@ define('TEXT_CALL_FOR_PRICE', 'Demande de prix');
 
 define('TEXT_INVALID_SELECTION',' vous avez effectué une sélection non valable: ');
 define('TEXT_ERROR_OPTION_FOR', 'Avec l\'option pour ');
-define('TEXT_INVALID_USER_INPUT', 'Saisie par l\'utilisateur requise<br />');
+define('TEXT_INVALID_USER_INPUT', 'Saisie par l\'utilisateur requise<br>');
 
 // product_listing
 define('PRODUCTS_QUANTITY_MIN_TEXT_LISTING', 'Minimum:');
@@ -454,8 +454,8 @@ define('TEXT_PRODUCTS_MIX_OFF_SHOPPING_CART', '*caractéristiques d\'attributs m
 define('TEXT_PRODUCTS_MIX_ON_SHOPPING_CART', '*caractéristiques d\'attributs mixtes: ON');
 define('ERROR_MAXIMUM_QTY', 'Nombre de pièces ajusté - nombre maximum de pièces ajoutées au panier d\'achat ');
 
-define('ERROR_CORRECTIONS_HEADING', 'Veuillez corriger ce qui suit: <br />');
-define('ERROR_QUANTITY_ADJUSTED', 'Erreur dans la quantité sélectionnée<br />');
+define('ERROR_CORRECTIONS_HEADING', 'Veuillez corriger ce qui suit: <br>');
+define('ERROR_QUANTITY_ADJUSTED', 'Erreur dans la quantité sélectionnée<br>');
 define('ERROR_QUANTITY_CHANGED_FROM', ', a été modifié de: ');
 define('ERROR_QUANTITY_CHANGED_TO', ' en ');
 
@@ -468,9 +468,9 @@ define('TEXT_FILESIZE_UNKNOWN', 'Inconnu');
 
 // shopping cart errors
 define('ERROR_PRODUCT', '<br/>L\'article: ');
-define('ERROR_PRODUCT_STATUS_SHOPPING_CART','<br />Désolé, ce produit n\'est actuellement pas dans notre stock. <br />Le produit a été retiré du panier.');
-define('ERROR_PRODUCT_ATTRIBUTES','<br />L\'article: ');
-define('ERROR_PRODUCT_STATUS_SHOPPING_CART_ATTRIBUTES','<br />Désolé, mais les options sélectionnées pour cet article ont changé et ne sont plus disponibles dans notre assortiment. <br />Cet article a été supprimé de votre panier.');
+define('ERROR_PRODUCT_STATUS_SHOPPING_CART','<br>Désolé, ce produit n\'est actuellement pas dans notre stock. <br>Le produit a été retiré du panier.');
+define('ERROR_PRODUCT_ATTRIBUTES','<br>L\'article: ');
+define('ERROR_PRODUCT_STATUS_SHOPPING_CART_ATTRIBUTES','<br>Désolé, mais les options sélectionnées pour cet article ont changé et ne sont plus disponibles dans notre assortiment. <br>Cet article a été supprimé de votre panier.');
 define('ERROR_PRODUCT_QUANTITY_MIN', '... quantité minimale ci-dessous -');
 define('ERROR_PRODUCT_QUANTITY_UNITS', '... quantité invalide -');
 define('ERROR_PRODUCT_OPTION_SELECTION', '... Caractéristiques d\'attribut non valides sélectionnées -');
@@ -481,11 +481,11 @@ define('ERROR_PRODUCT_QUANTITY_UNITS_SHOPPING_CART', '... quantité invalide -')
 define('ERROR_PRODUCT_QUANTITY_MAX_SHOPPING_CART', '... Nombre maximum de pièces dépassé -');
 define('WARNING_SHOPPING_CART_COMBINED', 'Attention : Votre panier actuel a été fusionné avec celui de votre dernière visite. Veuillez vérifier le contenu de votre panier avant de compléter votre commande.');
 define('WARNING_PRODUCT_QUANTITY_ADJUSTED', 'La quantité a été automatiquement adaptée au stock magasin disponible. ');
-define('OUT_OF_STOCK_CANT_CHECKOUT', 'Avec ' . STOCK_MARK_PRODUCT_OUT_OF_STOCK . ' les articles marqués d\'un \' ne sont actuellement pas en stock en quantité suffisante. <br />Veuillez modifier la quantité des articles marqués d\'un (' . STOCK_MARK_PRODUCT_OUT_OF_STOCK . ') Je vous remercie.');
-define('OUT_OF_STOCK_CAN_CHECKOUT', 'Avec ' . STOCK_MARK_PRODUCT_OUT_OF_STOCK . ' les articles marqués ne sont pas en stock. <br />Ces articles seront livrés plus tard.');
+define('OUT_OF_STOCK_CANT_CHECKOUT', 'Avec ' . STOCK_MARK_PRODUCT_OUT_OF_STOCK . ' les articles marqués d\'un \' ne sont actuellement pas en stock en quantité suffisante. <br>Veuillez modifier la quantité des articles marqués d\'un (' . STOCK_MARK_PRODUCT_OUT_OF_STOCK . ') Je vous remercie.');
+define('OUT_OF_STOCK_CAN_CHECKOUT', 'Avec ' . STOCK_MARK_PRODUCT_OUT_OF_STOCK . ' les articles marqués ne sont pas en stock. <br>Ces articles seront livrés plus tard.');
 
 // error on checkout when $_SESSION['customers_id' does not exist in customers table
-define('ERROR_CUSTOMERS_ID_INVALID', 'Les informations client n\'ont pas pu être vérifiées!<br />Veuillez vous connecter ou créer à nouveau votre compte client. ...');
+define('ERROR_CUSTOMERS_ID_INVALID', 'Les informations client n\'ont pas pu être vérifiées!<br>Veuillez vous connecter ou créer à nouveau votre compte client. ...');
 
 define('TABLE_HEADING_FEATURED_PRODUCTS','Articles recommandés');
 
@@ -517,10 +517,10 @@ define('TEXT_AUTHORIZATION_PENDING_CHECKOUT', 'Commander n\'est pas possible - v
 
 // text pricing
 define('TEXT_CHARGES_WORD', 'Frais calculés:');
-define('TEXT_PER_WORD', '<br />Prix au mot: ');
+define('TEXT_PER_WORD', '<br>Prix au mot: ');
 define('TEXT_WORDS_FREE', ' Mot(s) libre(s) ');
 define('TEXT_CHARGES_LETTERS', 'Frais calculés:');
-define('TEXT_PER_LETTER', '<br />Prix par lettre: ');
+define('TEXT_PER_LETTER', '<br>Prix par lettre: ');
 define('TEXT_LETTERS_FREE', ' Lettre(s) gratuite(s) ');
 define('TEXT_ONETIME_CHARGES', '*redevance unique = ');
 define('TEXT_ONETIME_CHARGES_EMAIL', "\t" . '*redevance unique = ');
@@ -549,7 +549,7 @@ define('CART_SHIPPING_METHOD_ADDRESS', 'Adresse:');
 
 define('CART_ITEMS', 'dans le panier: ');
 
-define('ERROR_CART_UPDATE', 'Veuillez mettre à jour votre commande ...<br />');
+define('ERROR_CART_UPDATE', 'Veuillez mettre à jour votre commande ...<br>');
 
 define('EMPTY_CART_TEXT_NO_QUOTE', 'Oups ! Votre session a expiré... Veuillez mettre à jour votre panier d\'achat pour les frais d\'expédition');
 define('CART_SHIPPING_QUOTE_CRITERIA', 'Les frais d\'expédition seront calculés en fonction de l\'adresse sélectionnée.:');

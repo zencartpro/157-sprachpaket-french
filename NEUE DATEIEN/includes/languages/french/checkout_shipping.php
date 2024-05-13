@@ -24,7 +24,7 @@ define('TEXT_CHOOSE_SHIPPING_METHOD','Veuillez sélectionner le mode d\'expédit
 define('TITLE_PLEASE_SELECT','Veuillez sélectionner');
 define('TEXT_ENTER_SHIPPING_INFORMATION','C\'est actuellement la seule méthode d\'expédition.');
 define('TITLE_NO_SHIPPING_AVAILABLE', 'Actuellement non disponible');
-define('TEXT_NO_SHIPPING_AVAILABLE','<span class="alert">Désolé, mais nous ne pouvons pas livrer dans votre région.</span><br />N\'hésitez pas à nous contacter pour trouver des alternatives.');
+define('TEXT_NO_SHIPPING_AVAILABLE','<span class="alert">Désolé, mais nous ne pouvons pas livrer dans votre région.</span><br>N\'hésitez pas à nous contacter pour trouver des alternatives.');
 
 define('TABLE_HEADING_COMMENTS','Commentaires ou remarques');
 

@@ -11,11 +11,11 @@
 define('NAVBAR_TITLE', TEXT_GV_NAME . ' FAQ');
 define('HEADING_TITLE', TEXT_GV_NAME . ' FAQ');
 define('TEXT_INFORMATION', '<a id="Top"></a>
-  <a href="'.zen_href_link(FILENAME_GV_FAQ,'faq_item=1').'">Comment commander ' . TEXT_GV_NAMES . '</a><br />
-  <a href="'.zen_href_link(FILENAME_GV_FAQ,'faq_item=2').'">Comment puis-je expédier ' . TEXT_GV_NAMES . '</a><br />
-  <a href="'.zen_href_link(FILENAME_GV_FAQ,'faq_item=3').'">Faire du shopping avec ' . TEXT_GV_NAMES . '</a><br />
-  <a href="'.zen_href_link(FILENAME_GV_FAQ,'faq_item=4').'">Échanger de ' . TEXT_GV_NAMES . '</a><br />
-  <a href="'.zen_href_link(FILENAME_GV_FAQ,'faq_item=5').'">En cas de problèmes</a><br />
+  <a href="'.zen_href_link(FILENAME_GV_FAQ,'faq_item=1').'">Comment commander ' . TEXT_GV_NAMES . '</a><br>
+  <a href="'.zen_href_link(FILENAME_GV_FAQ,'faq_item=2').'">Comment puis-je expédier ' . TEXT_GV_NAMES . '</a><br>
+  <a href="'.zen_href_link(FILENAME_GV_FAQ,'faq_item=3').'">Faire du shopping avec ' . TEXT_GV_NAMES . '</a><br>
+  <a href="'.zen_href_link(FILENAME_GV_FAQ,'faq_item=4').'">Échanger de ' . TEXT_GV_NAMES . '</a><br>
+  <a href="'.zen_href_link(FILENAME_GV_FAQ,'faq_item=5').'">En cas de problèmes</a><br>
 ');
 
 define('SUB_HEADING_TITLE_1','Comment commander ' . TEXT_GV_NAMES);
@@ -32,16 +32,16 @@ Vous recevrez également une brève notification par courriel. Afin d\'éviter t
 
 
 define('SUB_HEADING_TITLE_3','Faire du shopping avec ' . TEXT_GV_NAMES);
-define('SUB_HEADING_TEXT_3','Si votre compte de ' . TEXT_GV_NAME . ' a un solde, vous pouvez l\'utiliser pour acheter d\'autres articles dans notre boutique. Un champ de saisie supplémentaire apparaîtra pendant le processus de paiement.<br />
+define('SUB_HEADING_TEXT_3','Si votre compte de ' . TEXT_GV_NAME . ' a un solde, vous pouvez l\'utiliser pour acheter d\'autres articles dans notre boutique. Un champ de saisie supplémentaire apparaîtra pendant le processus de paiement.<br>
 Veuillez saisir le montant que vous souhaitez retirer de votre compte de ' . TEXT_GV_NAME . '. Si la valeur de la commande dépasse le solde de votre compte ' . TEXT_GV_NAME . ', vous pouvez choisir le mode de paiement souhaité pour la différence. Si la valeur de votre commande est inférieure au solde de votre compte de ' . TEXT_GV_NAME . ', le solde de votre compte de ' . TEXT_GV_NAME . ' sera bien entendu conservé pour vos prochains achats.');
 
 
 define('SUB_HEADING_TITLE_4','Échanger de ' . TEXT_GV_NAMES);
 define('SUB_HEADING_TEXT_4','Lorsque vous recevez un ' . TEXT_GV_NAME . ' par email, vous serez informé de l\'expéditeur, de la valeur du ' . TEXT_GV_NAME . ' et d\'un court message de l\'expéditeur. L\'e-mail contient également le ' . TEXT_GV_NAME . ' avec le ' . TEXT_GV_REDEEM . ' d\'achat. Nous vous recommandons d\'imprimer votre ' . TEXT_GV_NAME . ' pour une utilisation ultérieure.
-<br /><br /><u>Il y a deux façons d\'échanger votre ' . TEXT_GV_NAME . ' :</u><br /><br />
+<br><br><u>Il y a deux façons d\'échanger votre ' . TEXT_GV_NAME . ' :</u><br><br>
 1. en cliquant sur le lien envoyé avec le courriel qui vous mènera directement à la page du ' . TEXT_GV_NAME . '. Pour que ce ' . TEXT_GV_NAME . ' soit valide, vous devrez créer un compte dans notre boutique si vous n\'en avez pas déjà un. Une fois l\'enregistrement réussi, le crédit de ce bon sera crédité sur votre compte.
-<br /><br /><center><strong>compte de certificat-cadeau personnel</strong></center><br />
-a été crédité sur votre compte. A partir de maintenant, vous pouvez utiliser ce crédit pour vos besoins.<br /><br />
+<br><br><center><strong>compte de certificat-cadeau personnel</strong></center><br>
+a été crédité sur votre compte. A partir de maintenant, vous pouvez utiliser ce crédit pour vos besoins.<br><br>
 2. Pendant le processus de commande, vous pouvez également entrer le ' . TEXT_GV_REDEEM . ' d\'achat sur la page où vous indiquez votre mode de paiement. Entrez votre numéro de bon personnel et cliquez sur "Échanger". Après une brève vérification de la validité du ' . TEXT_GV_NAME . ' à échanger, les fonds seront crédités sur votre compte ' . TEXT_GV_NAME . ' personnel.
 A partir de maintenant, vous pouvez utiliser le montant pour vos besoins.');
 

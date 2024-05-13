@@ -28,7 +28,7 @@ define('EMAIL_WELCOME', 'Bienvenue chez <strong>' . STORE_NAME . '</strong>.');
 define('EMAIL_SEPARATOR', '--------------------');
 define('EMAIL_COUPON_INCENTIVE_HEADER', 'Félicitations! Pour récompenser votre prochaine visite sur notre boutique en ligne, nous vous avons réservé un coupon promotionnel !' . "\n\n");
 // your Discount Coupon Description will be inserted before this next define
-define('EMAIL_COUPON_REDEEM', 'Vous pouvez échanger ce coupon promotionnel contre votre prochain achat. Entrer le ' . TEXT_GV_REDEEM . ':<br /> %s pendant le processus de commande' . "\n\n");
+define('EMAIL_COUPON_REDEEM', 'Vous pouvez échanger ce coupon promotionnel contre votre prochain achat. Entrer le ' . TEXT_GV_REDEEM . ':<br> %s pendant le processus de commande' . "\n\n");
 define('TEXT_COUPON_HELP_DATE', '<p>Le bon est valable entre %s et %s</p>');
 
 define('EMAIL_GV_INCENTIVE_HEADER', 'Si vous achetez chez nous aujourd\'hui, vous recevrez le ' . TEXT_GV_NAME . '  pour %s!' . "\n\n");

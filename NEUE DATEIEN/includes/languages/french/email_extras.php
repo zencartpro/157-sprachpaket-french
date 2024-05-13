@@ -45,7 +45,7 @@ define('EMAIL_ORDER_MESSAGE','');
 define('EMAIL_FOOTER_COPYRIGHT','Copyright (c) ' . date('Y') . ' <a href="' . zen_href_link(FILENAME_DEFAULT) . '" target="_blank">' . STORE_NAME . '</a>');
 define('TEXT_UNSUBSCRIBE', "\n\n" . 'Pour vous désabonner de ce bulletin, veuillez cliquer sur le lien suivant: ' . "\n");
 // email advisory for all emails customer generate -  and GV send
-define('EMAIL_ADVISORY', '-----' . "\n" . '<strong>Attention:</strong> Pour des raisons de sécurité, tous les e-mails envoyés sont mis en cache.<br />Si vous avez des questions à ce sujet, veuillez contacter: ' . STORE_OWNER_EMAIL_ADDRESS);
+define('EMAIL_ADVISORY', '-----' . "\n" . '<strong>Attention:</strong> Pour des raisons de sécurité, tous les e-mails envoyés sont mis en cache.<br>Si vous avez des questions à ce sujet, veuillez contacter: ' . STORE_OWNER_EMAIL_ADDRESS);
 
 // email advisory included warning for all emails customer generate - and GV send
 define('EMAIL_ADVISORY_INCLUDED_WARNING', '<strong>Ce message est inclus dans tous les courriels sur cette page:</strong>');

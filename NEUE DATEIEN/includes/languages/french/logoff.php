@@ -12,4 +12,4 @@
 
 define('HEADING_TITLE','Désenregistré');
 define('NAVBAR_TITLE','Désenregistré');
-define('TEXT_MAIN','Vous êtes maintenant déconnecté. Merci de votre visite.<br /><br />Le contenu de votre panier a été enregistré et sera disponible pour votre prochaine visite.');
+define('TEXT_MAIN','Vous êtes maintenant déconnecté. Merci de votre visite.<br><br>Le contenu de votre panier a été enregistré et sera disponible pour votre prochaine visite.');

@@ -32,7 +32,7 @@ define('TEXT_ALL_CATEGORIES', 'Toutes les catégories');
 define('TEXT_ALL_MANUFACTURERS', 'Tous les fabricants');
 
 define('HEADING_SEARCH_HELP', 'Aide à la recherche');
-define('TEXT_SEARCH_HELP', 'Les termes de recherche peuvent être utilisés à l\'aide de AND ou OR.<br /><br />Exemple : avec Microsoft ET les termes de la souris avec les deux mots sont trouvés. Alors que Microsoft OR Mouse trouve les termes qui contiennent Microsoft ou Mouse.');
+define('TEXT_SEARCH_HELP', 'Les termes de recherche peuvent être utilisés à l\'aide de AND ou OR.<br><br>Exemple : avec Microsoft ET les termes de la souris avec les deux mots sont trouvés. Alors que Microsoft OR Mouse trouve les termes qui contiennent Microsoft ou Mouse.');
 define('TEXT_CLOSE_WINDOW', 'Fermer la fenêtre [x]');
 
 define('TABLE_HEADING_IMAGE', 'Image de l\'article');
