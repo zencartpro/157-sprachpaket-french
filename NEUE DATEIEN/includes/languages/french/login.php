@@ -1,14 +1,14 @@
 <?php
 /**
- * Zen Cart German Specific
- * @package languageDefines
- * @copyright Copyright 2003-2022 Zen Cart Development Team
+ * Zen Cart German Specific (158 code in 157)
+ 
+ * @copyright Copyright 2003-2023 Zen Cart Development Team
  * Zen Cart German Version - www.zen-cart-pro.at
  * @copyright Portions Copyright 2003 osCommerce
  * @license https://www.zen-cart-pro.at/license/3_0.txt GNU General Public License V3.0
  * translation 2021 by klartexter
  
- * @version $Id: login.php 2019-06-24 19:05:14Z webchills $
+ * @version $Id: login.php 2024-05-13 16:05:14Z webchills $
  */
 
 define('NAVBAR_TITLE','Se connecter');
@@ -27,7 +27,7 @@ define('HEADING_RETURNING_CUSTOMER_SPLIT', 'Des clients réguliers ');
 
 define('TEXT_RETURNING_CUSTOMER_SPLIT', 'Pour continuer, veuillez vous connecter');
 
-define('TEXT_PASSWORD_FORGOTTEN','Oublié votre mot de passe?');
+
 
 define('TEXT_LOGIN_ERROR','Attention! L\'adresse e-mail ou le mot de passe n\'ont pas été trouvés.');
 define('TEXT_VISITORS_CART','<strong class="note">Note:</strong> Le contenu de votre panier visiteur actuel sera ajouté à votre panier client après votre inscription. <a href="javascript:session_win();">[Aide]</a>');

@@ -1,12 +1,13 @@
 <?php
 /**
- * @package languageDefines
- * @copyright Copyright 2003-2019 Zen Cart Development Team
+
+ * @copyright Copyright 2003-2022 Zen Cart Development Team
+ * Zen Cart German Version - www.zen-cart-pro.at
  * @copyright Portions Copyright 2003 osCommerce
  * @license https://www.zen-cart-pro.at/license/3_0.txt GNU General Public License V3.0
  * translation 2021 by klartexter
  
- * @version $Id: account_notifications.php 631 2010-09-15 22:42:08Z maleborg $
+ * @version $Id: account_notifications.php 2024-05-13 22:42:08Z maleborg $
 
  */
 
@@ -15,7 +16,7 @@ define('NAVBAR_TITLE_2','Notifications d\'articles');
 
 define('HEADING_TITLE','Notifications d\'articles');
 
-define('MY_NOTIFICATIONS_TITLE','Mes notifications d\'articles');
+
 define('MY_NOTIFICATIONS_DESCRIPTION','Les notifications d\'article vous tiennent informés des articles intéressés.<br><br>Pour vous tenir au courant de toutes les nouvelles, mises à jour, etc., sélectionnez <strong>Notifications d\'article générales</strong>.');
 
 define('GLOBAL_NOTIFICATIONS_TITLE','Notifications globales d\'articles');

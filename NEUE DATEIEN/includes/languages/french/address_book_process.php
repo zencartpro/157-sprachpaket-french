@@ -1,7 +1,7 @@
 <?php
 /**
-
- * @copyright Copyright 2003-2022 Zen Cart Development Team
+ * Zen Cart German Specific (158 code in 157)
+ * @copyright Copyright 2003-2023 Zen Cart Development Team
  * Zen Cart German Version - www.zen-cart-pro.at
  * @copyright Portions Copyright 2003 osCommerce
  * @license https://www.zen-cart-pro.at/license/3_0.txt GNU General Public License V3.0
@@ -21,7 +21,7 @@ define('HEADING_TITLE', 'Détails de l\'adresse');
 
 define('DELETE_ADDRESS_DESCRIPTION','Êtes-vous sûr de vouloir supprimer cette adresse de votre carnet d\'adresses ?');
 
-define('SET_AS_PRIMARY','Utiliser comme adresse principale.');
+
 define('SUCCESS_ADDRESS_BOOK_ENTRY_DELETED','L\'adresse sélectionnée a été supprimée avec succès.');
 define('SUCCESS_ADDRESS_BOOK_ENTRY_UPDATED','Votre carnet d\'adresses a été mis à jour avec succès.');
 define('WARNING_PRIMARY_ADDRESS_DELETION','L\'adresse principale ne peut pas être supprimée. Veuillez d\'abord sélectionner une adresse différente comme adresse principale et réessayer.');

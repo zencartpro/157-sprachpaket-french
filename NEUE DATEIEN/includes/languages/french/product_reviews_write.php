@@ -1,13 +1,13 @@
 <?php
 /**
-
- * @copyright Copyright 2003-2022 Zen Cart Development Team
+ * Zen Cart German Specific (158 code in 157)
+ * @copyright Copyright 2003-2023 Zen Cart Development Team
  * Zen Cart German Version - www.zen-cart-pro.at
  * @copyright Portions Copyright 2003 osCommerce
  * @license https://www.zen-cart-pro.at/license/3_0.txt GNU General Public License V3.0
  * translation 2021 by klartexter
  
- * @version $Id: product_reviews_write.php 2022-01-14 19:05:14Z webchills $
+ * @version $Id: product_reviews_write.php 2024-05-13 16:05:14Z webchills $
 
  */
 
@@ -21,7 +21,7 @@ define('TEXT_NO_HTML', '<strong>Veuillez noter:</strong> Les balises HTML ne son
 define('TEXT_BAD', 'Mauvais');
 
 
-define('TEXT_APPROVAL_REQUIRED', '<strong>NOTE:</strong> Évalutions doivent être revues avant de pouvoir être publiées.');
+
 
 define('EMAIL_REVIEW_PENDING_SUBJECT', 'Avis sur les produits déverrouillables: %s');
 define('EMAIL_PRODUCT_REVIEW_CONTENT_INTRO', 'Un nouvel avis de produit pour %s a été envoyé et attend votre activation.' . "\n\n");

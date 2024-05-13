@@ -1,7 +1,7 @@
 <?php
 /**
- 
- * @copyright Copyright 2003-2022 Zen Cart Development Team
+ * Zen Cart German Specific (158 code in 157)
+ * @copyright Copyright 2003-2023 Zen Cart Development Team
  * Zen Cart German Version - www.zen-cart-pro.at
  * @copyright Portions Copyright 2003 osCommerce
  * @license https://www.zen-cart-pro.at/license/3_0.txt GNU General Public License V3.0
@@ -14,7 +14,7 @@ define('NAVBAR_TITLE_2','Carnet d\'adresses');
 
 define('HEADING_TITLE','Mon carnet d\'adresses personnel');
 
-define('PRIMARY_ADDRESS_TITLE','Adresse principale:');
+
 define('PRIMARY_ADDRESS_DESCRIPTION','Cette adresse sera utilisée comme adresse par défaut pour la livraison et la facturation.<br><br>Cette adresse est également utilisée pour le calcul de la TVA.');
 
 define('ADDRESS_BOOK_TITLE','Entrées du carnet d\'adresses');

@@ -1,12 +1,12 @@
 <?php
 /**
- * Zen Cart German Specific
- * @copyright Copyright 2003-2022 Zen Cart Development Team
+ * Zen Cart German Specific (158 code in 157 / zencartpro adaptations)
+ * @copyright Copyright 2003-2024 Zen Cart Development Team
  * Zen Cart German Version - www.zen-cart-pro.at
  * @copyright Portions Copyright 2003 osCommerce
  * @license https://www.zen-cart-pro.at/license/3_0.txt GNU General Public License V3.0
  * translation 2021 by klartexter
- * @version $Id: button_names.php 2022-12-07 19:11:14Z webchills $
+ * @version $Id: button_names.php 2024-05-13 16:11:14Z webchills $
  */
  
 /**
@@ -45,6 +45,8 @@ define('BUTTON_IMAGE_SEND_ANOTHER', 'button_send_another.gif');
 define('BUTTON_IMAGE_SHIPPING_ESTIMATOR', 'button_shipping_estimator.gif');
 define('BUTTON_IMAGE_SOLD_OUT','button_sold_out.gif');
 define('BUTTON_IMAGE_SOLD_OUT_SMALL','button_sold_out_sm.gif');
+define('BUTTON_IMAGE_DROPSHIPPING','button_sold_out.gif');
+define('BUTTON_IMAGE_DROPSHIPPING_SMALL','button_sold_out_sm.gif');
 define('BUTTON_IMAGE_SUBMIT', 'button_submit.gif');
 define('BUTTON_IMAGE_UNSUBSCRIBE', 'button_unsubscribe.gif');
 define('BUTTON_IMAGE_UPDATE', 'button_update.gif');
@@ -79,6 +81,8 @@ define('BUTTON_CONTINUE_SHOPPING_ALT', 'continuer les achats');
 define('BUTTON_DELETE_ALT', 'Supprimer');
 define('BUTTON_DELETE_SMALL_ALT', 'Supprimer');
 define('BUTTON_DOWNLOAD_ALT', 'Téléchargement');
+define('BUTTON_DROPSHIPPING_ALT', 'Commande spéciale');
+define('BUTTON_DROPSHIPPING_SMALL_ALT', 'Commande spéciale');
 define('BUTTON_EDIT_SMALL_ALT', 'Éditer');
 define('BUTTON_IN_CART_ALT', 'Ajouter au panier');
 define('BUTTON_LOGIN_ALT', 'Se connecter');
@@ -97,7 +101,8 @@ define('BUTTON_SEND_A_GIFT_CERT_ALT', 'Envoyer un bon d\'achat');
 define('BUTTON_SHIPPING_ESTIMATOR_ALT', 'Estimation des frais d\'expédition');
 define('BUTTON_SOLD_OUT_ALT', 'À guichets fermés');
 define('BUTTON_SOLD_OUT_SMALL_ALT', 'À guichets fermés');
-define('BUTTON_SUBMIT_ALT', 'Envoi');
+define('BUTTON_SUBMIT_ALT', 'Envoyer');
+define('BUTTON_SUBMIT_ALT', 'Envoyer');
 define('BUTTON_UNSUBSCRIBE', 'Se désabonner');
 define('BUTTON_UPDATE_ALT', 'Mise à jour');
 define('BUTTON_VIEW_SMALL_ALT', 'Affichage');
