@@ -102,7 +102,7 @@ define('BUTTON_SHIPPING_ESTIMATOR_ALT', 'Estimation des frais d\'expédition');
 define('BUTTON_SOLD_OUT_ALT', 'À guichets fermés');
 define('BUTTON_SOLD_OUT_SMALL_ALT', 'À guichets fermés');
 define('BUTTON_SUBMIT_ALT', 'Envoyer');
-define('BUTTON_SUBMIT_ALT', 'Envoyer');
+define('BUTTON_SUBMIT_GO_ALT', 'Envoyer');
 define('BUTTON_UNSUBSCRIBE', 'Se désabonner');
 define('BUTTON_UPDATE_ALT', 'Mise à jour');
 define('BUTTON_VIEW_SMALL_ALT', 'Affichage');
