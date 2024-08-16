@@ -1,5 +1,7 @@
 ##### add french definitions for multilanguage countries_names
 
+DELETE FROM `countries_name` WHERE `language_id` = 33;
+
 INSERT IGNORE INTO `countries_name` (`countries_id`, `language_id`, `countries_name`) VALUES
 (1, 33, 'Afghanistan'),
 (2, 33, 'Albanie'),
