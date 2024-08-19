@@ -9,7 +9,7 @@ Freigegebene getestete Versionen für den Einsatz in Livesystemen ausschließlic
 * Frontend von klartexter übersetzt 
 
 * Dieses Sprachpaket stellt eine komplette französsche Übersetzung (Übersetzunggrad 100%) für das Frontend der Grundversion bereit. 
-* Die Sprachdefinitionen sind vollständig für die deutsche Zen Cart Version angepasst, so dass es auch mit PHP8 keine Probleme geben sollte. 
+* Die Sprachdefinitionen sind vollständig für die deutsche Zen Cart Version 1.5.7i angepasst, so dass es auch mit PHP 8.2 oder 8.3 keine Probleme geben sollte. 
 * Dieses Sprachpaket geht davon aus, dass im Shop CSS Buttons verwendet werden und liefert keine französischen Grafikbuttons mit. 
 
 * Da es seit Zen Cart 1.5.7 deutsch nicht mehr nötig ist, die Administration auf andere Sprachen umzuschalten (außer zum Bearbeiten von Define Pages unter Tools > Seiteneditor) stellt dieses Sprachpaket keine französische Übersetzung für den Adminbereich bereit.
