@@ -1,11 +1,11 @@
 <?php
 /**
  * Zen Cart German Specific (158 code in 157 / zencartpro adaptations)
- * @copyright Copyright 2003-2024 Zen Cart Development Team
+ * @copyright Copyright 2003-2026 Zen Cart Development Team
  * Zen Cart German Version - www.zen-cart-pro.at
  * @copyright Portions Copyright 2003 osCommerce
  * @license https://www.zen-cart-pro.at/license/3_0.txt GNU General Public License V3.0
- * @version $Id: french.php 2024-08-19 12:08:04Z webchills $
+ * @version $Id: french.php 2026-05-25 12:08:04Z webchills $
  */
 
 // important line - do NOT change
@@ -14,7 +14,7 @@
 // texts for admin header
 define('TEXT_PASSWORD_LAST_CHANGE', 'Passwort zuletzt geändert:&nbsp;');
 define('TEXT_LAST_LOGIN_INFO', 'Letztes Login [IP]:&nbsp;');
-define('HEADER_ALT_TEXT','Admin Powered by Zen Cart 1.5.7i - deutsche Version');
+define('HEADER_ALT_TEXT','Admin Powered by Zen Cart 1.5.7k - deutsche Version');
 define('HEADER_LOGO_IMAGE','logo.gif');
 define('HEADER_LOGO_WIDTH','240');
 define('HEADER_LOGO_HEIGHT','54');
@@ -98,7 +98,7 @@ define('BOX_CUSTOMERS_GROUP_PRICING','Gruppenpreise');
 define('BOX_CUSTOMERS_INVOICE','Rechnung');
 define('BOX_CUSTOMERS_ORDERS','Bestellungen');
 define('BOX_CUSTOMERS_PACKING_SLIP','Lieferschein');
-define('BOX_CUSTOMERS_PAYPAL','PayPal IPN');
+define('BOX_CUSTOMERS_PAYPAL','PayPal Transaktionen');
 define('BOX_CUSTOMERS_WITHOUT_ORDER', 'Kunden, die nie etwas bestellt haben');
 define('BOX_DSGVO_KUNDENEXPORT', 'DSGVO Kundendatenexport');
 define('BOX_ENTRY_COUNTER','Besucherzähler:');
@@ -391,7 +391,7 @@ define('PRODUCTS_QUANTITY_MIN_TEXT_LISTING','Min:');
 define('PRODUCTS_QUANTITY_UNIT_TEXT_LISTING','Einheiten:');
 define('PRODUCT_PRICE_DISCOUNT_AMOUNT','&nbsp;Rabatt');
 define('PRODUCT_PRICE_DISCOUNT_PERCENTAGE','% Rabatt');
-define('PRODUCT_PRICE_DISCOUNT_PREFIX','Speichern:&nbsp;');
+define('PRODUCT_PRICE_DISCOUNT_PREFIX','Sie sparen:&nbsp;');
 define('PRODUCT_PRICE_SALE','Abverkauf:&nbsp;');
 define('PRODUCTS_ATTRIBUTES_ADDING','FÜGE NEUE ATTRIBUTE HINZU');
 define('PRODUCTS_ATTRIBUTES_DELETE','LÖSCHE');
@@ -470,7 +470,7 @@ define('TEXT_AVAILABLE_DATE','Erscheinungsdatum:');
 define('TEXT_BANNERS_BANNER_CLICKS','Banner Clicks');
 define('TEXT_BANNERS_BANNER_VIEWS','Banner Impressionen');
 define('TEXT_BOOLEAN_VALIDATE','Der Wert muss ein boolescher Wert oder gleichwertig sein.');
-define('TEXT_BUTTON_RESET_ACTIVITY_LOG','Zeige Aktivitäteny Log');
+define('TEXT_BUTTON_RESET_ACTIVITY_LOG','Zeige Aktivitäten Log');
 define('TEXT_CALL_FOR_PRICE','für Preis anrufen');
 define('TEXT_CANCEL','Abbrechen');
 define('TEXT_CATEGORIES_PRODUCTS','Kategorie mit Artikeln wählen (mit * gekennzeichnet) / Zwischen Artikeln wechseln');
